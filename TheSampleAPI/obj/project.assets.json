@@ -115,11 +115,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TheSampleAPIApp\\TheSampleAPI\\TheSampleAPI.csproj",
+      "projectUniqueName": "D:\\TheSampleAPIApp\\api-setup-scalar-config\\TheSampleAPI\\TheSampleAPI.csproj",
       "projectName": "TheSampleAPI",
-      "projectPath": "D:\\TheSampleAPIApp\\TheSampleAPI\\TheSampleAPI.csproj",
+      "projectPath": "D:\\TheSampleAPIApp\\api-setup-scalar-config\\TheSampleAPI\\TheSampleAPI.csproj",
       "packagesPath": "C:\\Users\\ravik\\.nuget\\packages\\",
-      "outputPath": "D:\\TheSampleAPIApp\\TheSampleAPI\\obj\\",
+      "outputPath": "D:\\TheSampleAPIApp\\api-setup-scalar-config\\TheSampleAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
