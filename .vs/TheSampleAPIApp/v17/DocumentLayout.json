@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TheSampleAPIApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81BCB564-78CC-492F-A20D-8FA8BB3DF8B7}|TheSampleAPI\\TheSampleAPI.csproj|d:\\thesampleapiapp\\thesampleapi\\endpoints\\rootendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81BCB564-78CC-492F-A20D-8FA8BB3DF8B7}|TheSampleAPI\\TheSampleAPI.csproj|solutionrelative:thesampleapi\\endpoints\\rootendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81BCB564-78CC-492F-A20D-8FA8BB3DF8B7}|TheSampleAPI\\TheSampleAPI.csproj|d:\\thesampleapiapp\\thesampleapi\\startup\\dependenciesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81BCB564-78CC-492F-A20D-8FA8BB3DF8B7}|TheSampleAPI\\TheSampleAPI.csproj|solutionrelative:thesampleapi\\startup\\dependenciesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81BCB564-78CC-492F-A20D-8FA8BB3DF8B7}|TheSampleAPI\\TheSampleAPI.csproj|d:\\thesampleapiapp\\thesampleapi\\startup\\openapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81BCB564-78CC-492F-A20D-8FA8BB3DF8B7}|TheSampleAPI\\TheSampleAPI.csproj|solutionrelative:thesampleapi\\startup\\openapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81BCB564-78CC-492F-A20D-8FA8BB3DF8B7}|TheSampleAPI\\TheSampleAPI.csproj|d:\\thesampleapiapp\\thesampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81BCB564-78CC-492F-A20D-8FA8BB3DF8B7}|TheSampleAPI\\TheSampleAPI.csproj|solutionrelative:thesampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RootEndPoints.cs",
+              "DocumentMoniker": "D:\\TheSampleAPIApp\\TheSampleAPI\\Endpoints\\RootEndPoints.cs",
+              "RelativeDocumentMoniker": "TheSampleAPI\\Endpoints\\RootEndPoints.cs",
+              "ToolTip": "D:\\TheSampleAPIApp\\TheSampleAPI\\Endpoints\\RootEndPoints.cs",
+              "RelativeToolTip": "TheSampleAPI\\Endpoints\\RootEndPoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T21:08:46.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependenciesConfig.cs",
+              "DocumentMoniker": "D:\\TheSampleAPIApp\\TheSampleAPI\\Startup\\DependenciesConfig.cs",
+              "RelativeDocumentMoniker": "TheSampleAPI\\Startup\\DependenciesConfig.cs",
+              "ToolTip": "D:\\TheSampleAPIApp\\TheSampleAPI\\Startup\\DependenciesConfig.cs",
+              "RelativeToolTip": "TheSampleAPI\\Startup\\DependenciesConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T21:03:22.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OpenAPIConfig.cs",
+              "DocumentMoniker": "D:\\TheSampleAPIApp\\TheSampleAPI\\Startup\\OpenAPIConfig.cs",
+              "RelativeDocumentMoniker": "TheSampleAPI\\Startup\\OpenAPIConfig.cs",
+              "ToolTip": "D:\\TheSampleAPIApp\\TheSampleAPI\\Startup\\OpenAPIConfig.cs",
+              "RelativeToolTip": "TheSampleAPI\\Startup\\OpenAPIConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:54:13.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TheSampleAPIApp\\TheSampleAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TheSampleAPI\\Program.cs",
+              "ToolTip": "D:\\TheSampleAPIApp\\TheSampleAPI\\Program.cs",
+              "RelativeToolTip": "TheSampleAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:43:27.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

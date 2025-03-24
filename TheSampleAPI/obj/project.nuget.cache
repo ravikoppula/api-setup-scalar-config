@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "a/KFOPPjIX0=",
+  "success": true,
+  "projectFilePath": "D:\\TheSampleAPIApp\\TheSampleAPI\\TheSampleAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ravik\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "C:\\Users\\ravik\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\ravik\\.nuget\\packages\\scalar.aspnetcore\\2.1.1\\scalar.aspnetcore.2.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
